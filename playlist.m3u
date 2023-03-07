@@ -89,6 +89,15 @@ https://watchtvs.live/getm3u8?id=202&m3u8=/jiotvmblive.cdn.jio.com/DD_National/D
 https://watchtvs.live/getm3u8?id=821&m3u8=/jiotvmblive.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
 #EXTINF:1 ,Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/8653ecf4-3150-4a54-8eba-77e88197b0be/0.m3u8
+#EXTINF:1 ,Kaloopy2
+https://b-hls-09.doppiocdn.com/hls/59707439/59707439.m3u8
+#EXTINF:1 ,Kaloopy3
+https://b-hls-24.doppiocdn.org/hls/89446861/89446861.m3u8
+#EXTINF:1 ,Kaloopy4
+https://b-hls-09.doppiocdn.com/hls/105512943/105512943.m3u8
+#EXTINF:1 ,Kaloopy5
+https://b-hls-11.doppiocdn.com/hls/91533798/91533798.m3u8
+
 #Sony Liv working channel below (backup link)
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony Liv",SONY HD
